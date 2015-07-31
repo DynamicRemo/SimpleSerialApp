@@ -1,2 +1,2 @@
 # SimpleSerialApp
-Simple Serial Communication, Phonegap/Cordova App
+Simple Serial Communication using Phonegap/Cordova App
