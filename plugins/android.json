@@ -1,0 +1,19 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "res/xml/config.xml": {
+            "/*": {
+                "<feature name=\"Serial\"><param name=\"android-package\" value=\"fr.drangies.cordova.serial.Serial\" /></feature>": 1
+            }
+        }
+    },
+    "installed_plugins": {
+        "fr.drangies.cordova.serial": {
+            "PACKAGE_NAME": "com.phonegap.helloworld"
+        }
+    },
+    "dependent_plugins": {}
+}

@@ -1,0 +1,20 @@
+D:\OK`s Data\IAS\Projects\SimpleSerialApp\platforms\android\ant-build\classes.dex : \
+D:\OK`s Data\IAS\Projects\SimpleSerialApp\platforms\android\ant-build\classes\com\phonegap\helloworld\BuildConfig.class \
+D:\OK`s Data\IAS\Projects\SimpleSerialApp\platforms\android\ant-build\classes\com\phonegap\helloworld\HelloWorld.class \
+D:\OK`s Data\IAS\Projects\SimpleSerialApp\platforms\android\ant-build\classes\com\phonegap\helloworld\R$attr.class \
+D:\OK`s Data\IAS\Projects\SimpleSerialApp\platforms\android\ant-build\classes\com\phonegap\helloworld\R$drawable.class \
+D:\OK`s Data\IAS\Projects\SimpleSerialApp\platforms\android\ant-build\classes\com\phonegap\helloworld\R$string.class \
+D:\OK`s Data\IAS\Projects\SimpleSerialApp\platforms\android\ant-build\classes\com\phonegap\helloworld\R$xml.class \
+D:\OK`s Data\IAS\Projects\SimpleSerialApp\platforms\android\ant-build\classes\com\phonegap\helloworld\R.class \
+D:\OK`s Data\IAS\Projects\SimpleSerialApp\platforms\android\ant-build\classes\fr\drangies\cordova\serial\Serial$1.class \
+D:\OK`s Data\IAS\Projects\SimpleSerialApp\platforms\android\ant-build\classes\fr\drangies\cordova\serial\Serial$2.class \
+D:\OK`s Data\IAS\Projects\SimpleSerialApp\platforms\android\ant-build\classes\fr\drangies\cordova\serial\Serial$3.class \
+D:\OK`s Data\IAS\Projects\SimpleSerialApp\platforms\android\ant-build\classes\fr\drangies\cordova\serial\Serial$4.class \
+D:\OK`s Data\IAS\Projects\SimpleSerialApp\platforms\android\ant-build\classes\fr\drangies\cordova\serial\Serial$5.class \
+D:\OK`s Data\IAS\Projects\SimpleSerialApp\platforms\android\ant-build\classes\fr\drangies\cordova\serial\Serial$6.class \
+D:\OK`s Data\IAS\Projects\SimpleSerialApp\platforms\android\ant-build\classes\fr\drangies\cordova\serial\Serial$7.class \
+D:\OK`s Data\IAS\Projects\SimpleSerialApp\platforms\android\ant-build\classes\fr\drangies\cordova\serial\Serial$8.class \
+D:\OK`s Data\IAS\Projects\SimpleSerialApp\platforms\android\ant-build\classes\fr\drangies\cordova\serial\Serial.class \
+D:\OK`s Data\IAS\Projects\SimpleSerialApp\platforms\android\ant-build\classes\fr\drangies\cordova\serial\UsbBroadcastReceiver.class \
+D:\OK`s Data\IAS\Projects\SimpleSerialApp\platforms\android\ant-build\dexedLibs\classes-21ae740f0f5b3374be9fd73bf227e012.jar \
+D:\OK`s Data\IAS\Projects\SimpleSerialApp\platforms\android\ant-build\dexedLibs\usbseriallibrary-cca48ce48dec5f28aee65ebb1485c8b0.jar \
